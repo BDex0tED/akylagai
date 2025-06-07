@@ -1,0 +1,23 @@
+.Select{
+    padding: 6px 11px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: white;
+    color: #333;
+    appearance: none; 
+}
+
+.Select:hover {
+  border-color: #2563eb; 
+  background-color: #f0f4ff; 
+  cursor: pointer;
+}
+
+.Select:focus {
+  outline: none;
+  border-color: #2563eb;     
+}
+
+p{
+  padding-bottom: 5px;
+}

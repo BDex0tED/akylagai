@@ -1,0 +1,37 @@
+.HeaderBlock{
+    display: flex;   
+    gap: 15px;
+}
+
+.btnStyle{
+    width: 120px;
+    padding: 13px 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #5181e9;
+    color: #333;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.btnStyle:hover{
+    border-color: #2563eb; 
+    background-color: #94b2f3; 
+}
+
+.parent{
+    display: flex;
+    max-width: 400px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center p{
+    padding-right: 10px;
+    padding-top: 10px;
+}

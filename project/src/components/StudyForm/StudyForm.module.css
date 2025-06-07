@@ -1,0 +1,57 @@
+.askBlock{
+    max-width: 700px;
+    margin: 0 auto;
+    display: grid;
+    gap: 10px; 
+}
+
+.selectBlock{
+    display: flex;
+    justify-content: space-between;
+    max-width: 500px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.dflex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.spacing{
+    height: 30px;
+}
+
+.SelectBox{
+    margin-bottom: 5px;
+    margin-right: 7px;
+}
+
+.lspacing{
+    height: 10px;
+}
+
+.selectBlock3{
+    display: flex;
+    justify-content: space-between;
+    max-width: 700px;
+}
+
+.numberInput {
+  padding: 6px 11px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.b{
+    margin-top: 24px;
+}
+
